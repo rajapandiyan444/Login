@@ -1,0 +1,23 @@
+.custom-hover:hover{
+    color: black;
+    font-size: 1.2rem;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 900;
+    border: 1px solid blue;
+    text-transform: capitalize;
+}
+.custom-hover{
+    color: black;
+    font-size: 1.2rem;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 900;
+    text-transform: capitalize;
+    border: 1px solid blue;
+}
+.custom-search::placeholder{
+    color:navy !important;
+}
+
+.custom-search{
+    border: 1px solid black;
+}
